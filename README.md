@@ -11,13 +11,17 @@
 <h2 align='center'>Technology Stack</h2>
 
 <p align='center'>
-<p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src='https://img.shields.io/badge/C-423f6d.svg?style=for-the-badge&logo=c&logoColor=e919ec'>&nbsp;
+  <img src='https://img.shields.io/badge/C++-423f6d.svg?style=for-the-badge&logo=c%2B%2B&logoColor=e919ec'>&nbsp;
+  <img src='https://img.shields.io/badge/python-423f6d.svg?style=for-the-badge&logo=python&logoColor=e919ec'>&nbsp;
+  <img src='https://img.shields.io/badge/git-423f6d.svg?style=for-the-badge&logo=git&logoColor=e919ec'>&nbsp;
+  <img src='https://img.shields.io/badge/HTML5-423f6d.svg?style=for-the-badge&logo=html5&logoColor=e919ec'>&nbsp;
+  <img src='https://img.shields.io/badge/CSS3-423f6d.svg?style=for-the-badge&logo=css3&logoColor=e919ec'>&nbsp;
+  <img src='https://img.shields.io/badge/R-423f6d.svg?style=for-the-badge&logo=r&logoColor=e919ec'>&nbsp;
+  <img src='https://img.shields.io/badge/MySql-423f6d.svg?style=for-the-badge&logo=mysql&logoColor=e919ec'>&nbsp;
+
+</p>
 
 <h1></h1>
 
