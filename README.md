@@ -1,4 +1,13 @@
-# Hi, There I'm Devam 👋
+<h1 align="center">Hi 👋, I'm Devam</h1>
+<h3 align="center">A passionate Software developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=devam2001&label=Profile%20views&color=0e75b6&style=flat" alt="devam2001" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devam2001" alt="devam2001" /></a> </p>
+
+- 🌱 I’m currently learning **DSA, MangoDB, ML**
+
+- ⚡ Fact **Do Good, Fell Good**
 <img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=devam2001&show_icons=true&theme=outrun"/>
 <img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devam2001&layout=compact&theme=outrun"/>
 <br></br>
