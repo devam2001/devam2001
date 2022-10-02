@@ -1,7 +1,6 @@
 # Hi, There I'm Devam 👋
 <img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api?username=devam2001&show_icons=true&theme=outrun"/>
-<img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devam2001&layout=compact&theme=outrun"/><br>
-<img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api/wakatime?username=devam2001&theme=outrun">
+<img align = "left" width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devam2001&layout=compact&theme=outrun"/>
 
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
