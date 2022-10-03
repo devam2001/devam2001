@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Software developer from India</h3>
 
 
-- 🌱 I’m currently learning **DSA, MangoDB, ML**
+- 🌱 I’m currently learning **DSA**
 
 - ⚡ Fact **Do Good, Fell Good**
 
