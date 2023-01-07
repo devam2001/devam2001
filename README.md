@@ -2,10 +2,6 @@
 <h3 align="center">A passionate Software Developer from India</h3>
 
 
-- 🌱 I’m currently learning **DSA & SQL**
-
-- ⚡ Fact **Do Good, Fell Good**
-
 <h1></h1>
 
 <h2 align='center'>Technology Stack</h2>
