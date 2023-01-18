@@ -24,7 +24,7 @@
 
 <h2 align='center'>Github Stats</h2>
 
-<p align='left'>
+
 <p align='left'><img width = "47%" src="https://github-readme-stats.vercel.app/api?username=devam2001&show_icons=true&locale=en&theme=outrun" alt="devam2001" /></p>
 <p align='center'>&nbsp;<img width = "47%"  src="https://github-readme-streak-stats.herokuapp.com/?user=devam2001&background=141439&dates=8080fe&fire=goldenrod&ring=goldenrod&stroke=fuchsia&currStreakLabel=goldenrod&sideNums=8080fe&currStreakNum=8080fe&sideLabels=goldenrod" alt="devam2001" /></p>
 <p align='center'><img width = "47%" src="https://github-readme-stats.vercel.app/api/top-langs?username=devam2001&show_icons=true&locale=en&layout=compact&theme=outrun" alt="devam2001" /></p>
