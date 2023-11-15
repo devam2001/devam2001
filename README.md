@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devam Patel</h1>
-<h3 align="center">A passionate Software Development Engineer from India</h3>
+<h3 align="center">A passionate QA Engineer from India</h3>
 
 
 <h1></h1>
