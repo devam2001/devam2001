@@ -11,6 +11,7 @@
   <img src='https://img.shields.io/badge/C-423f6d.svg?style=for-the-badge&logo=c&logoColor=e919ec'>&nbsp;
   <img src='https://img.shields.io/badge/Docker-423f6d.svg?style=for-the-badge&logo=docker&logoColor=e919ec'>&nbsp;
   <img src='https://img.shields.io/badge/Selenium-423f6d.svg?style=for-the-badge&logo=selenium&logoColor=e919ec'>&nbsp;
+  <img src='https://img.shields.io/badge/Postman-423f6d.svg?style=for-the-badge&logo=postman&logoColor=e919ec'>&nbsp;
   <img src='https://img.shields.io/badge/BrowserStack-423f6d.svg?style=for-the-badge&logo=browserstack&logoColor=e919ec'>&nbsp;
   <img src='https://img.shields.io/badge/C++-423f6d.svg?style=for-the-badge&logo=c%2B%2B&logoColor=e919ec'>&nbsp;
   <img src='https://img.shields.io/badge/python-423f6d.svg?style=for-the-badge&logo=python&logoColor=e919ec'>&nbsp;
