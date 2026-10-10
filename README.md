@@ -1,27 +1,64 @@
-<h1 align="center">Hi 👋, I'm Devam Patel</h1>
-<h3 align="center">A passionate QA Engineer from India</h3>
+<div align="center">
 
+# Devamkumar Patel
 
-<h1></h1>
+**QA Engineer · SDET · Master of IT (AI & Quantum Computing) at Monash University**
 
-<h2 align='center'>Technology Stack</h2>
+Melbourne, Australia · open to Software Developer, QA Engineer and IT Graduate roles
 
-<p align='center'>
-<p align="center">
-  <img src='https://img.shields.io/badge/C-423f6d.svg?style=for-the-badge&logo=c&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/Docker-423f6d.svg?style=for-the-badge&logo=docker&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/Selenium-423f6d.svg?style=for-the-badge&logo=selenium&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/Postman-423f6d.svg?style=for-the-badge&logo=postman&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/BrowserStack-423f6d.svg?style=for-the-badge&logo=browserstack&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/C++-423f6d.svg?style=for-the-badge&logo=c%2B%2B&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/python-423f6d.svg?style=for-the-badge&logo=python&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/git-423f6d.svg?style=for-the-badge&logo=git&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/JAVA-423f6d.svg?style=for-the-badge&logo=java8&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/HTML5-423f6d.svg?style=for-the-badge&logo=html5&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/CSS3-423f6d.svg?style=for-the-badge&logo=css3&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/R-423f6d.svg?style=for-the-badge&logo=r&logoColor=e919ec'>&nbsp;
-  <img src='https://img.shields.io/badge/MySql-423f6d.svg?style=for-the-badge&logo=mysql&logoColor=e919ec'>&nbsp;
+<a href="https://devamkumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-191919?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/devampatel2501"><img src="https://img.shields.io/badge/LinkedIn-191919?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://devamkumar-portfolio.vercel.app/Devamkumar_Patel_Resume.pdf"><img src="https://img.shields.io/badge/Resume-D97757?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
 
+</div>
+
+---
+
+### About
+
+- 🧪 **2+ years in QA automation.** I build Selenium-Java frameworks and test APIs and performance, shipping in Agile teams.
+- 🎓 **Now studying AI & quantum computing** at Monash University, Clayton.
+- 🛠️ **I like systems that prove they work:** tests, gates, audit trails and honest numbers.
+
+### Experience
+
+**Associate QA Engineer, Antino Labs** · Sep 2023 to Oct 2025 · Gurugram, India
+
+- Cut QA cycle time by **40%** with a Selenium-Java framework and hybrid manual and automated testing.
+- Reduced manual testing by **70%** on the Speed Box delivery platform.
+- Load-tested with JMeter for **10,000+ concurrent users**.
+- Tested APIs with REST Assured, Postman and GraphQL, and checked data integrity in PostgreSQL.
+- Automated web and Android regression suites with Selenium and Appium for Ontic (International SOS).
+- 🏅 GEM of the Month (Feb 2025) · ⭐ Rising Star Award (Jun 2024)
+
+### Featured project
+
+#### [ridgeline](https://github.com/devam2001/ridgeline)
+
+A Binance spot trading bot built like production software, which runs on paper money only.
+
+[![Release](https://img.shields.io/github/v/release/devam2001/ridgeline?style=flat-square&color=D97757)](https://github.com/devam2001/ridgeline/releases/latest) [![CI](https://github.com/devam2001/ridgeline/actions/workflows/ci.yml/badge.svg)](https://github.com/devam2001/ridgeline/actions/workflows/ci.yml)
+
+- **Research pipeline:** point-in-time pair selection, out-of-sample testing, walk-forward windows and nine go-live gates.
+- **Risk controls:** portfolio risk limits, a kill switch and a hash-chained audit trail.
+- **Paper vs replay check:** compares paper trading with a replay of the same weeks.
+- **Shipping:** a Windows installer, a Docker image and CI on every push.
+
+<sub>Python · Freqtrade · FastAPI · Docker · GitHub Actions</sub>
+
+### Other projects
+
+| Project | What |
+|---|---|
+| **GuardianShield** | An Android DNS-filtering VPN in Kotlin. It parses RFC 1035 packets from scratch and needs no third-party DNS. |
+| **Drone Delivery Feasibility** | A Python simulation of battery drain, routing and feasible delivery routes. |
+| [Web & API Testing](https://github.com/devam2001/Web-and-API-Tesiting) · [Last.fm UI Testing](https://github.com/devam2001/Last.fm-WebUI-Testing) | Test automation projects. |
+| [Sorting Visualizer](https://github.com/devam2001/Sorting-Visualizer-using-SFML) | Sorting algorithms animated in C++ and SFML. |
+
+### Toolkit
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,kotlin,cpp,selenium,postman,postgres,mysql&perline=8" alt="Languages and testing tools">
+  <br>
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,jenkins,git,linux,fastapi,androidstudio,html&perline=8" alt="Platforms and tooling">
 </p>
 
-<h1></h1>
+<sub>Also: Appium · JMeter · REST Assured · BrowserStack · Agile/Scrum</sub>
