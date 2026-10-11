@@ -1,16 +1,20 @@
 <div align="center">
 
-# Devamkumar Patel
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" width="100%" alt="Devamkumar Patel: QA Engineer and SDET, Master of IT (AI & Quantum Computing) at Monash University, based in Melbourne">
+</picture>
 
-**QA Engineer · SDET · Master of IT (AI & Quantum Computing) at Monash University**
-
-Melbourne, Australia · open to Software Developer, QA Engineer and IT Graduate roles
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/status-dark.svg">
+  <img src="assets/status-light.svg" alt="Open to developer, QA and graduate roles in Melbourne">
+</picture>
 
 <a href="https://devamkumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-191919?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/devampatel2501"><img src="https://img.shields.io/badge/LinkedIn-191919?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://devamkumar-portfolio.vercel.app/Devamkumar_Patel_Resume.pdf"><img src="https://img.shields.io/badge/Resume-D97757?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
 
 </div>
 
----
+<img src="assets/divider.svg" width="100%" alt="">
 
 ### About
 
@@ -28,6 +32,8 @@ Melbourne, Australia · open to Software Developer, QA Engineer and IT Graduate 
 - Tested APIs with REST Assured, Postman and GraphQL, and checked data integrity in PostgreSQL.
 - Automated web and Android regression suites with Selenium and Appium for Ontic (International SOS).
 - 🏅 GEM of the Month (Feb 2025) · ⭐ Rising Star Award (Jun 2024)
+
+<img src="assets/divider.svg" width="100%" alt="">
 
 ### Featured project
 
@@ -53,6 +59,8 @@ A Binance spot trading bot built like production software, which runs on paper m
 | [Web & API Testing](https://github.com/devam2001/Web-and-API-Tesiting) · [Last.fm UI Testing](https://github.com/devam2001/Last.fm-WebUI-Testing) | Test automation projects. |
 | [Sorting Visualizer](https://github.com/devam2001/Sorting-Visualizer-using-SFML) | Sorting algorithms animated in C++ and SFML. |
 
+<img src="assets/divider.svg" width="100%" alt="">
+
 ### Toolkit
 
 <p>
@@ -62,3 +70,10 @@ A Binance spot trading bot built like production software, which runs on paper m
 </p>
 
 <sub>Also: Appium · JMeter · REST Assured · BrowserStack · Agile/Scrum</sub>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devam2001/devam2001/output/github-contribution-grid-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/devam2001/devam2001/output/github-contribution-grid-snake.svg" width="100%" alt="A snake eating my GitHub contribution graph">
+</picture>
