@@ -7,7 +7,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/status-dark.svg">
-  <img src="assets/status-light.svg" alt="Open to developer, QA and graduate roles in Melbourne">
+  <img src="assets/status-light.svg" alt="Open to Software Engineering and DevOps roles in Melbourne">
 </picture>
 
 <a href="https://devamkumar-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-191919?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio"></a> <a href="https://www.linkedin.com/in/devampatel2501"><img src="https://img.shields.io/badge/LinkedIn-191919?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> <a href="https://devamkumar-portfolio.vercel.app/Devamkumar_Patel_Resume.pdf"><img src="https://img.shields.io/badge/Resume-D97757?style=flat-square&logo=readdotcv&logoColor=white" alt="Resume"></a>
